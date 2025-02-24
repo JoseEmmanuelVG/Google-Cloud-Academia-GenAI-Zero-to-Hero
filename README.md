@@ -3,6 +3,11 @@
 Provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.
 
 
+### 1. [🔗 Introduction to Generative AI ](Introduction_GenerativeAI_JEVG.md).
+
+
+
+
 
 
 <details>
