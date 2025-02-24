@@ -27,6 +27,25 @@
 - **Unsupervised Learning**: Uses **unlabeled data** to discover patterns or clusters (e.g., grouping employees by income and tenure).  
 - **Semi-Supervised Learning**: Combines small labeled data with large unlabeled data for training neural networks.
 
+### 🧪 **Supervised vs Unsupervised Learning**
+
+```plaintext
++--------------------+            +---------+            +-----------------+            +--------+
+|  Supervised        |            | Model   |            | Predicted Output |            | Error  |
+|  Learning          |----------->|         |----------->|       (ŷ)        |----------->|        |
+| (Input Data: x)    |            +---------+            +-----------------+            +--------+
+|                    |                                  | Compare to       |
+|                    |<----------------------------     | Expected Output  |
+|                    |      Model Update                |       (y)        |
++--------------------+                                  +-----------------+
+
+
++--------------------+            +---------+            +-----------------------+
+|  Unsupervised      |----------->| Model   |----------->|   Generated Example    |
+|  Learning          |            +---------+            +-----------------------+
+| (Input Data: x)    |
++--------------------+
+```
 ---
 
 ## 🧠 **Deep Learning & Neural Networks**  
@@ -87,7 +106,25 @@
 ---
 
 ## 🏛️ **Foundation Models**  
-- **Definition**: Large AI models pre-trained on massive datasets.  
+- **Definition**: Large AI models pre-trained on massive datasets.
+
+### 🔄 **Foundation Model Workflow**
+
+```plaintext
++----------------+      Training       +--------------------+       Adaption       +-----------------------+
+|     Data       |  ---------------->  |   Foundation Model  |  ---------------->  |         Tasks         |
++----------------+                     +--------------------+                      +-----------------------+
+| - Text         |                     |                    |                      | - Question Answering  |
+| - Image        |                     |                    |                      | - Sentiment Analysis  |
+| - Speech       |                     |                    |                      | - Information Extraction|
+| - Structured   |                     |                    |                      | - Image Captioning    |
+|   Data         |                     |                    |                      | - Object Recognition  |
+| - 3D Signals   |                     |                    |                      | - Instruction Following|
++----------------+                     +--------------------+                      +-----------------------+
+```
+
+
+ 
 - **Applications**:  
   - Sentiment analysis  
   - Image captioning  
