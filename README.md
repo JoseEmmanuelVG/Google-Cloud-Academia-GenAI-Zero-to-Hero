@@ -6,6 +6,8 @@ Provides an overview of generative AI concepts, from the fundamentals of large l
 ### 1. [🔗 Introduction to Generative AI ](Introduction_GenerativeAI_JEVG.md).
 
 
+### 4. Prompt Design in Vertex AI
+- [🔗 Generative AI with Vertex AI: Prompt Design ](Vertex_AI_Workbench_JEVG.md).
 
 
 
