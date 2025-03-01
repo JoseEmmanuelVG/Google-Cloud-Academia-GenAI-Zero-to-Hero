@@ -3,9 +3,11 @@
 Provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.
 
 
-### 1. [🔗 Introduction to Generative AI ](Introduction_GenerativeAI_JEVG.md).
+### 01. [🔗 Introduction to Generative AI ](Introduction_GenerativeAI_JEVG.md).
 
-### 2. [🔗 Introduction to Large Language Models ](Introduction_GenerativeAI_JEVG.md).
+### 02. [🔗 Introduction to Large Language Models ](Introduction_GenerativeAI_JEVG.md).
+
+### 03. [🔗 Introduction to Responsible AI ](Introduction_Responsible_AI_JEVG.md).
 
 ### 4. Prompt Design in Vertex AI
 - [🔗 Generative AI with Vertex AI: Prompt Design ](Prompt_Design_in_Vertex_AI-JEVG/GenerativeAI_with_VertexAI:PromptDesign/Vertex_AI_Workbench_JEVG.md).
