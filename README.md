@@ -13,12 +13,14 @@ Provides an overview of generative AI concepts, from the fundamentals of large l
 - [🔗 Generative AI with Vertex AI: Prompt Design ](Prompt_Design_in_Vertex_AI-JEVG/GenerativeAI_with_VertexAI:PromptDesign/Vertex_AI_Workbench_JEVG.md).
 
 ### 05. Responsible AI: Applying AI Principles with Google Cloud
-- [🔗 Introduction ](IntroductionResponsibleAI_JEVG.md).
-- [🔗 The Business Case for Responsible AI ](Introduction_Responsible_AI_JEVG.md).
-- [🔗 AI’s Technical Considerations and Ethical Concerns ](Introduction_Responsible_AI_JEVG.md).
-- [🔗 Creating AI Principles ](Introduction_Responsible_AI_JEVG.md).
-- [🔗 Operationalizing AI Principles: Setting Up and Running Reviews ](Introduction_Responsible_AI_JEVG.md).
-- [🔗 Operationalizing AI Principles: Issue Spotting and Lessons Learned ](Introduction_Responsible_AI_JEVG.md).
+- [🔗 Introduction ](ResponsableAI-JEVG/IntroductionResponsibleAI_JEVG.md).
+- [🔗 The Business Case for Responsible AI ](-.md).
+
+Working on (Not notes yet):
+- [🔗 AI’s Technical Considerations and Ethical Concerns ](-.md).
+- [🔗 Creating AI Principles ](-.md).
+- [🔗 Operationalizing AI Principles: Setting Up and Running Reviews ](-.md).
+- [🔗 Operationalizing AI Principles: Issue Spotting and Lessons Learned ](-.md).
 
 
 <details>
