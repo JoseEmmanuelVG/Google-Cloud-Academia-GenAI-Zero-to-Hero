@@ -14,7 +14,7 @@ Provides an overview of generative AI concepts, from the fundamentals of large l
 
 ### 05. Responsible AI: Applying AI Principles with Google Cloud
 - [🔗 Introduction ](ResponsableAI-JEVG/IntroductionResponsibleAI_JEVG.md).
-- [🔗 The Business Case for Responsible AI ](-.md).
+- [🔗 The Business Case for Responsible AI ](ResponsableAI-JEVG/BusinessCaseResponsibleAI.md).
 
 Working on (Not notes yet):
 - [🔗 AI’s Technical Considerations and Ethical Concerns ](-.md).
