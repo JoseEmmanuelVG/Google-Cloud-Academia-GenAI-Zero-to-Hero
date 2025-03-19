@@ -85,4 +85,166 @@ Upon completing this lab, you will be able to:
 - Ensure uninterrupted access to your system for the entire lab duration.
 
 ---
+---
+---
+
+
+
+# 📘 **Prompt Design in Vertex AI - A Step-by-Step Guide**
+
+This guide provides detailed instructions on how to complete the *Prompt Design* lab in **Vertex AI Workbench** using **Google Cloud's Generative AI tools**. By following these steps, you will gain hands-on experience in **prompt engineering best practices** to optimize AI-generated responses.
+
+---
+
+## 🚀 **Task 1: Open the Notebook in Vertex AI Workbench**
+### **1️⃣ Access Vertex AI Workbench**
+1. **Navigate to Vertex AI**  
+   - In the **Google Cloud Console**, open the **Navigation menu**.
+   - Click **Vertex AI > Workbench**.  
+   - ![Navigation menu](image.png)
+
+2. **Launch JupyterLab**  
+   - Locate the **vertex-ai-jupyterlab instance** and click **Open JupyterLab**.  
+   - This opens **JupyterLab** in a new browser tab.  
+   - ![Open JupyterLab](image-2.png)  
+   - ![JupyterLab Interface](image-3.png)  
+
+---
+
+## ⚙️ **Task 2: Set Up the Notebook**
+### **1️⃣ Open the Notebook & Select Kernel**
+1. **Open the `intro_prompt_design.ipynb` notebook** from the JupyterLab file explorer.
+2. **Select the Python 3 Kernel**  
+   - When prompted, choose **Python 3** as the kernel.  
+   - ![Select Kernel](image-4.png)
+
+### **2️⃣ Run Initial Notebook Cells**
+1. **Execute the "Getting Started" and "Import Libraries" sections**.
+   - Use **Project ID:** `qwiklabs-gcp-03-89d9309b0185`  
+   - Use **Location:** `europe-west1`
+2. **Skip Colab-specific cells**.
+3. **If you encounter a 429 response error, wait 1 minute and retry.**  
+
+📌 *Click "Check My Progress" to validate your setup.*  
+
+   - ![Notebook Setup](image-5.png)  
+   - ![Running Cells](image-6.png)  
+   - ![Notebook Execution](image-7.png)  
+
+---
+
+## 🎯 **Task 3: Prompt Engineering Best Practices**
+### **Optimizing Prompts for Effective AI Responses**
+Prompt engineering focuses on **designing prompts** that yield the most relevant and accurate responses from an **LLM (Large Language Model)**.  
+
+📌 Follow these **best practices** when designing prompts:  
+- ✅ **Be concise** - Avoid unnecessary words.  
+- ✅ **Be specific and well-defined** - Provide clear instructions.  
+- ✅ **Ask one task at a time** - Keep prompts focused.  
+- ✅ **Include examples** - Guide the LLM with structured examples.  
+- ✅ **Convert generative tasks into classification tasks** - Enhances safety and accuracy.  
+
+   - ![Prompt Engineering Best Practices](image-10.png)  
+   - ![Example Prompts](image-11.png)  
+
+---
+
+## 🔄 **Task 4: Reduce Output Variability**
+### **Minimizing Hallucinations and Irrelevant Responses**
+To **reduce inconsistencies** in LLM-generated responses:  
+1. **Use system instructions** to define response behavior.  
+2. **Apply constraints** to prevent model hallucinations.  
+3. **Limit the randomness in output** by adjusting temperature and top-k sampling.  
+
+📌 *In this section, you will apply these techniques to improve a travel chatbot's responses.*  
+
+   - ![Reducing Output Variability](image-12.png)  
+
+---
+
+## 🏗️ **Task 5: Improve Response Quality by Including Examples**
+### **Enhancing Model Understanding with Contextual Examples**
+1. **Incorporate examples in your prompts** to guide the LLM’s behavior.  
+2. **Use 1-5 representative examples** to maintain diversity without overfitting.  
+3. **Ensure balanced example distribution** to align with real-world scenarios.  
+
+📌 *Applying few-shot learning improves AI response accuracy and reliability.*  
+
+   - ![Using Examples in Prompts](image-13.png)  
+
+---
+
+## 🎉 **Congratulations!**
+You have successfully completed the **Prompt Design Lab** using **Google's Generative AI tools**.  
+In this lab, you explored:  
+✅ **Best practices for prompt engineering**  
+✅ **Techniques to reduce variability in responses**  
+✅ **How to improve AI-generated outputs using structured examples**  
+
+Your acquired knowledge will help **optimize LLM performance** and **enhance AI-generated outputs** in real-world applications.
+
+   - ![Lab Completed](image-14.png)  
+
+---
+📌 **Next Steps:**  
+- Continue practicing with **more prompt variations**.  
+- Experiment with **different model parameters** to fine-tune responses.  
+- Apply these principles to **custom AI applications** in **Vertex AI**.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
+  <summary>🌟 Did you find any repository useful?</summary>
+  If any project has been helpful to you, consider giving it a ⭐ star in the repository and follow my GitHub account to stay tuned for future updates! 🚀
+
+  In addition, I am always open to suggestions, recommendations or collaborations. Feel free to [get in touch](https://www.linkedin.com/in/vazquez-galan-jose-emmanuel-664968221) if you have any questions or ideas for improving this project. I'm excited for your feedback and contributions.
+
+  Thank you for your interest and support! 😊
+</details>
+
+
+<p align="center">
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</p>
+
+
 
