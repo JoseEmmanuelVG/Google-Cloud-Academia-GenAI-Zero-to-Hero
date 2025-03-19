@@ -11,6 +11,8 @@ Provides an overview of generative AI concepts, from the fundamentals of large l
 
 ### 04. Prompt Design in Vertex AI
 - [🔗 Generative AI with Vertex AI: Prompt Design ](Prompt_Design_in_Vertex_AI-JEVG/GenerativeAI_with_VertexAI:PromptDesign/Vertex_AI_Workbench_JEVG.md).
+- 
+- [🔗 2️⃣Prompt Design in Vertex AI: Challenge Lab ](Prompt_Design_in_Vertex_AI-JEVG/Prompt_Design_in_Vertex_AI:ChallengeLab/PromptDesign_VertexAI_ChallengeLab_JEVG.md).
 
 ### 05. Responsible AI: Applying AI Principles with Google Cloud
 - [🔗 Introduction ](ResponsableAI-JEVG/IntroductionResponsibleAI_JEVG.md).
