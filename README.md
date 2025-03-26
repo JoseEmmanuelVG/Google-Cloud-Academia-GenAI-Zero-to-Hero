@@ -3,17 +3,17 @@
 Provides an overview of generative AI concepts, from the fundamentals of large language models to responsible AI principles.
 
 
-### 01. [🔗 Introduction to Generative AI ](Introduction_GenerativeAI_JEVG.md).
+## 01. [🔗 Introduction to Generative AI ](Introduction_GenerativeAI_JEVG.md).
 
-### 02. [🔗 Introduction to Large Language Models ](Introduction_GenerativeAI_JEVG.md).
+## 02. [🔗 Introduction to Large Language Models ](Introduction_GenerativeAI_JEVG.md).
 
-### 03. [🔗 Introduction to Responsible AI ](Introduction_Responsible_AI_JEVG.md).
+## 03. [🔗 Introduction to Responsible AI ](Introduction_Responsible_AI_JEVG.md).
 
-### 04. Prompt Design in Vertex AI
-- [🔗 Generative AI with Vertex AI: Prompt Design ](Prompt_Design_in_Vertex_AI-JEVG/GenerativeAI_with_VertexAI:PromptDesign/Vertex_AI_Workbench_JEVG.md).
-- 
-- [🔗 Getting Started with the Gemini API in Vertex AI ](Prompt_Design_in_Vertex_AI-JEVG/Getting_Started_with_the_Gemini_API_inVertex_AI/Gemini_API_Vertex_AI_JEVg.md).
-- [🔗 2️⃣Prompt Design in Vertex AI: Challenge Lab ](Prompt_Design_in_Vertex_AI-JEVG/Prompt_Design_in_Vertex_AI:ChallengeLab/PromptDesign_VertexAI_ChallengeLab_JEVG.md).
+## 04. Prompt Design in Vertex AI
+#### - [🔗 Generative AI with Vertex AI: Prompt Design ](Prompt_Design_in_Vertex_AI-JEVG/GenerativeAI_with_VertexAI:PromptDesign/Vertex_AI_Workbench_JEVG.md).
+#### - [🔗 Get Started with Vertex AI Studio ](Prompt_Design_in_Vertex_AI-JEVG/Get_Started_with_Vertex_AI_Studio/Vertex_AI_Studio_JEVG.md).
+#### - [🔗 Getting Started with the Gemini API in Vertex AI ](Prompt_Design_in_Vertex_AI-JEVG/Getting_Started_with_the_Gemini_API_inVertex_AI/Gemini_API_Vertex_AI_JEVg.md).
+#### - [🔗 2️⃣Prompt Design in Vertex AI: Challenge Lab ](Prompt_Design_in_Vertex_AI-JEVG/Prompt_Design_in_Vertex_AI:ChallengeLab/PromptDesign_VertexAI_ChallengeLab_JEVG.md).
 
 ### 05. Responsible AI: Applying AI Principles with Google Cloud
 - [🔗 Introduction ](ResponsableAI-JEVG/IntroductionResponsibleAI_JEVG.md).
